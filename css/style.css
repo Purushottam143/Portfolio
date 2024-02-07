@@ -12,9 +12,9 @@
 }
 
 :root {
-    --bg-color:#;
-    --second-bg-color:#;
-    --text-color:#;
+    --bg-color:#fff;
+    --second-bg-color:#000;
+    --text-color:#000;
     --main-color:#dacece;
 }
 
