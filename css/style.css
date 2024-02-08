@@ -57,6 +57,14 @@ section {
     cursor: default;
 }
 
+.logo {
+     position: relative;
+    font-size: 1.7rem;
+    color: var(--main-color);
+    margin-left: 4rem;
+    transition: 3s;
+}
+
 .navbar a {
     position: relative;
     font-size: 1.7rem;
