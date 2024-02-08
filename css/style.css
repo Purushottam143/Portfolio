@@ -58,7 +58,7 @@ section {
 }
 
 .logo a {
-     position: relative;
+    position: relative;
     font-size: 1.7rem;
     color: var(--main-color);
     margin-left: 4rem;
