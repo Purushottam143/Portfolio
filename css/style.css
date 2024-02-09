@@ -156,24 +156,24 @@ span {
     margin: 3rem 1.5rem 3rem 0;
 }
 
-.social-media #insta a:hover {
+.social-media .insta a:hover {
     background: linear-gradient(115deg, #f9ce34, #ee2a7b, #6228d7);
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
 
-.social-media #fb a:hover {
+.social-media .fb a:hover {
     background: var(--main-color);
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
 
-.social-media #LinkedIn a:hover {
+.social-media .LinkedIn a:hover {
     background: var(--main-color);
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
-.social-media #twtr a:hover {
+.social-media .twtr a:hover {
     background: var(--main-color);
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
