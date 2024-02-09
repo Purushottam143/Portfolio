@@ -162,7 +162,7 @@ span {
     box-shadow: 0 0 1rem var(--main-color);
 }
 .social-media a:hover {
-    background: linear-gradient(115deg, #f9ce34, #ee2a7b, #6228d7);
+    background: var(--main-color);
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
