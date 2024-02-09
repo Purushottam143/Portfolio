@@ -75,11 +75,6 @@ section {
     transition: 3s;
 }
 
-.logo aa:hover::after {
-    color: var(--main-color);
-    transform: scaleX(1);
-}
-
 .navbar a::after {
     content: '';
     position: absolute;
